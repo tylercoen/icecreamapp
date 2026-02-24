@@ -12,9 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/home")
 public class HomeServlet extends HttpServlet {
 
-	/**
-	 *
-	 */
 	private static final long serialVersionUID = 100L;
 
 	@Override
